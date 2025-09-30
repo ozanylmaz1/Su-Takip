@@ -1,5 +1,5 @@
 # Su-Takip💧
-Google Play: Su Takip : Suji<br>
+Google Play:<a href="https://play.google.com/store/apps/details?id=com.ozann.yllmaz.sutakipsuji"> Su Takip : Suji</a><br><br>
 <img width="1024" height="500" alt="sujiView" src="https://github.com/user-attachments/assets/7c60bb08-8bec-42c0-bc0b-0a3a8f56841d" />
 Sevimli maskot Suji, su içme alışkanlığı kazanmanı kolaylaştırıyor! Bu uygulama sayesinde günlük su tüketimini kaydedebilir, hedeflerine ulaşabilir ve akıllı hatırlatmalarla su içmeyi asla unutmazsın.<br><br>
 ✨ Öne çıkan özellikler:<br><br>
